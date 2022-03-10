@@ -6,7 +6,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Conflict user2!");
+            Console.WriteLine("Conflict user2!!");
             Console.WriteLine("Hello World!");
         }
     }
